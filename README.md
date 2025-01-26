@@ -1,0 +1,1 @@
+Predict the magnitude of an earthquake using linear regression model
