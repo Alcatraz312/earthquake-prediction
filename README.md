@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Alcatraz312/earthquake-prediction/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Alcatraz312/earthquake-prediction/blob/main/LICENSE) file for details.
 
 
 
