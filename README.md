@@ -12,7 +12,7 @@ Predict the magnitude of earthquake using machine learning approach. The project
 
 ## Getting Started
 
-### Prerequisties
+### Prerequisites
 
 Before using the program, you'll need the following:
 
